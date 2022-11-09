@@ -1,7 +1,5 @@
 ## 听风随落叶
-<div align="left">
-	<img  src="https://visitor-badge.glitch.me/badge?page_id=WinterChocolates" />
-</div>
+![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)
 
 ### 系统
 

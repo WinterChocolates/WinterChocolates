@@ -1,19 +1,20 @@
 <html>
 <head>
 <link href="https://fonts.font.im/css?family=Source+Code+Pro" rel="stylesheet">
+<link href="./css/style.css" rel="stylesheet">
 </head>
 
-<body style="{font-family: 'Source Code Pro', monospace;}">
+<body>
 
 # <font face="楷体">听风随落叶</font>
 
-<div style="{display: flex; justify-content: space-between; align-items: center;}">
-<div style="{flex: 1; margin-right: 20px;}">
+<div class="container">
+<div class="text">
 
 ### <p>hi,I'm WinterChocolates.</p>
 
 </div>
-<div style="{flex: 1; margin-left: 20px;}">
+<div class="images">
 <img src="./img/cat.gif" alt="Cat">
 </div>
 </div>

@@ -2,7 +2,7 @@
 
 # <font face="楷体">听风随落叶</font>
 
-### <p><font face="Source+Code+Pro">hi, I'm WinterChocolates. </font><img src="./img/cat.gif" alt="Cat" style="width:15%; height:auto;"></p>
+### <p><font face="Source+Code+Pro">hi, I'm WinterChocolates. </font><img src="./img/cat.gif" alt="Cat"></p>
 
 <details open>
 <summary> <b>🖥️ Code</b>：</summary>

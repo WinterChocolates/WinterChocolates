@@ -1,7 +1,7 @@
 <html>
 <head>
 <link href="https://fonts.font.im/css?family=Source+Code+Pro" rel="stylesheet">
-<link href="./css/style.css" rel="stylesheet">
+<link href="./css/style.css" rel="stylesheet" type="text/css">
 </head>
 
 <body>

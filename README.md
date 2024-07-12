@@ -1,7 +1,6 @@
 <html>
 <head>
 <link href="https://fonts.font.im/css?family=Source+Code+Pro" rel="stylesheet">
-<link href="./css/style.css" rel="stylesheet" type="text/css">
 </head>
 
 <body>
@@ -11,7 +10,7 @@
 <div class="container">
 <div class="text">
 
-### <p>hi,I'm WinterChocolates.</p>
+### <font face="Source+Code+Pro"><p>hi,I'm WinterChocolates.</p></font>
 
 </div>
 <div class="images">

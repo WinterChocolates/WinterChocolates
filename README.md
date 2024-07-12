@@ -1,26 +1,34 @@
-## 听风随落叶
-![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)
+<link href="https://fonts.font.im/css?family=Source+Code+Pro" rel="stylesheet">
+<style>
+body {font-family: 'Source Code Pro', monospace;}
+.container {display: flex; justify-content: space-between; align-items: center;}
+.text {flex: 1; margin-right: 20px;}
+.images {flex: 1; margin-left: 20px;}
+</style>
 
-### 系统
+# <font face="楷体">听风随落叶</font>
 
-- ![](https://img.shields.io/badge/%E5%B8%B8%E7%94%A8%E7%B3%BB%E7%BB%9F-CentOS-yellow)
-- ![](https://img.shields.io/badge/%E5%B8%B8%E7%94%A8%E7%B3%BB%E7%BB%9F-Ubuntu-yellow)
+<div class="container">
+<div class="text">
 
-### 工具
+### <p>hi,I'm WinterChocolates.</p>
 
-![](https://img.shields.io/badge/%E5%86%99%E4%BD%9C%E5%B7%A5%E5%85%B7-VSCode-blue)
-![](https://img.shields.io/badge/%E7%BC%96%E7%A8%8B%E5%B7%A5%E5%85%B7-Vim-blue)
-
-### 编程
-
-- **已学会**
-  - ![](https://img.shields.io/badge/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80-Shell-brightgreen)
-- **在学习**
-  - ![](https://img.shields.io/badge/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80-JavaScript-brightgreen)
-  - ![](https://img.shields.io/badge/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80-Python-brightgreen)
-  - ![](https://img.shields.io/badge/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80-Java-brightgreen)
-  - ![](https://img.shields.io/badge/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80-Go-brightgreen)
-
-<div align="left">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=WinterChocolates&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
 </div>
+<div class="images">
+<img src="./img/cat.gif" alt="Cat">
+</div>
+</div>
+
+<details open>
+<summary> <b>🖥️ Code</b>：</summary>
+<p>
+  <img alt="Debian" src="https://img.shields.io/badge/Debian-winterchocolates?logo=debian&logoColor=while&color=black" />
+  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-winterchocolates?logo=ubuntu&logoColor=while&color=black" />
+  <img alt="Shell" src="https://img.shields.io/badge/Shell-winterchocolates?logo=shell&logoColor=while&color=black" />
+  <img alt="Static Badge" src="https://img.shields.io/badge/Docker-winterchocolates?style=flat&logo=docker&logoColor=while&color=black" />
+</p>
+</details>
+
+
+
+

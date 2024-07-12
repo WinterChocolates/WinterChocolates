@@ -1,22 +1,9 @@
-<html>
-<head>
 <link href="https://fonts.font.im/css?family=Source+Code+Pro" rel="stylesheet">
-</head>
-
-<body>
 
 # <font face="楷体">听风随落叶</font>
 
-<div class="container">
-<div class="text">
-
 ### <font face="Source+Code+Pro"><p>hi,I'm WinterChocolates.</p></font>
-
-</div>
-<div class="images">
-<img src="./img/cat.gif" alt="Cat">
-</div>
-</div>
+![Cat](./img/cat.gif)
 
 <details open>
 <summary> <b>🖥️ Code</b>：</summary>
@@ -27,8 +14,5 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Docker-winterchocolates?style=flat&logo=docker&logoColor=while&color=black" />
 </p>
 </details>
-</body>
-</html>
-
 
 

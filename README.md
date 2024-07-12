@@ -1,25 +1,19 @@
 <html>
 <head>
 <link href="https://fonts.font.im/css?family=Source+Code+Pro" rel="stylesheet">
-<style>
-body {font-family: 'Source Code Pro', monospace;}
-.container {display: flex; justify-content: space-between; align-items: center;}
-.text {flex: 1; margin-right: 20px;}
-.images {flex: 1; margin-left: 20px;}
-</style>
 </head>
 
-<body>
+<body style="{font-family: 'Source Code Pro', monospace;}">
 
 # <font face="楷体">听风随落叶</font>
 
-<div class="container">
-<div class="text">
+<div style="{display: flex; justify-content: space-between; align-items: center;}">
+<div style="{flex: 1; margin-right: 20px;}">
 
 ### <p>hi,I'm WinterChocolates.</p>
 
 </div>
-<div class="images">
+<div style="{flex: 1; margin-left: 20px;}">
 <img src="./img/cat.gif" alt="Cat">
 </div>
 </div>

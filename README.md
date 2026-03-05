@@ -23,8 +23,8 @@
 <br/>
 
 <p>
-  <a href="https://github-stats-extended.vercel.app/api/top-langs?username=Winterchocolates&layout=pie&langs_count=4&theme=shadow_blue">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Winterchocolates&layout=pie&langs_count=4&theme=shadow_blue" height="170" alt="Top Langs" />
+  <a href="https://github-stats-extended.vercel.app/api/top-langs?username=Winterchocolates&hide_title=true&langs_count=4&theme=shadow_blue">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Winterchocolates&hide_title=true&langs_count=4&theme=shadow_blue" height="170" alt="Top Langs" />
   </a>
   <a href="https://github-stats-extended.vercel.app/api?username=Winterchocolates&custom_title=WinterChocolates&show_icons=true&include_all_commits=true&theme=shadow_blue">
     <img src="https://github-stats-extended.vercel.app/api?username=Winterchocolates&custom_title=WinterChocolates&show_icons=true&include_all_commits=true&theme=shadow_blue" height="170" alt="GitHub Stats" />
